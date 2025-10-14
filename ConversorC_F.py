@@ -1,4 +1,5 @@
 s = 0
+a = 0
 
 def c_f(c):
    return 9/5 * c + 32
